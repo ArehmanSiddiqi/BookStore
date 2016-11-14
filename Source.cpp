@@ -1,5 +1,3 @@
-//	               Abdulrehman Siddiqi
-//                   3190/BSCS/F15/A
 //             Microsoft Visual Studio 2013           
 /*       It is a Program to automize the bookstore 
           It keep record of Books and its Member.
